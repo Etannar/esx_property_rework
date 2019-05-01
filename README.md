@@ -1,5 +1,5 @@
 # esx_property_rework
-A rework of esx property done by ElPumpo and combined it with a garage script from TanguyOrtegat
+A rework of esx property done by ElPumpo and combined it with a garage script from TanguyOrtegat. All I did was ehance certain things and edit others. So obviously, I have not created any of this and all credit to that should go to ElPump and TanguyOrtegat... and who ever else was responsible for those scripts.
 
 I have been trying to get a rework of esx_property without the instance and was able to modify the script that took out all instancing from esx_property. With that being said, there are a few things to note.
 
