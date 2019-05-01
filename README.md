@@ -23,4 +23,6 @@ Here are some enhancements that I have done with the script.
 
 5) If you sell a property, it immediately becomes up for sale.
 
+6) When you purchase a property, the room menu that is associated with that property (row in DB) will always be available for that character. Doesn't matter where the apartments are. All are available and there is no need to go through the original buy menu... unless you wanna sell it.
+
 There will be more added later, but I am tired and want to get this posted. Thanks for trying it out and let me know if you like it or not.
